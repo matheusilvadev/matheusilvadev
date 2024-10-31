@@ -7,10 +7,12 @@ I strive to create efficient and innovative softwares that solves real-world pro
 [![Blog](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/eurotheus)
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusilvadev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusilvadev&show_icons=true&theme=gruvbox)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusilvadev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies
 <div style="display: inline_block"><br/>
