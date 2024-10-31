@@ -1,4 +1,6 @@
 ### Hi there! I'm Matheus Oliveira. 👋 
+👨‍🎓 I'm a Software Engineering student with a passion for development. <br/>
+I strive to create efficient and innovative softwares that solves real-world problems.
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheeusdev/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-oliveira-987304252/)
@@ -21,6 +23,6 @@
 
 </div><br/>
 
-👨‍🎓 I'm a Software Engineering student with a passion for development. I strive to create efficient and innovative softwares that solves real-world problems.
+
 <br/>
 
